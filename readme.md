@@ -35,6 +35,8 @@ python ats.py
 cd Crew_AI
 python crew_ai.py
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/1dc0bd55-c87b-4105-9a6e-9e388dc04a6b)
+
 
 ### 3. YT Transcriber
 **Description:** A tool to automatically transcribe YouTube videos, providing easy access to video content in text format.
