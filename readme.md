@@ -88,6 +88,9 @@ python invoice_extractor.py --file <Invoice File Path>
 cd Text_to_SQL
 python text_to_sql.py --query "<Natural Language Query>"
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/df7d4f15-cbf5-475b-9833-d47655fe27cc)
+
+
 ### 6. ATS (Applicant Tracking System)
 **Description:** An application to streamline the recruitment process by tracking and managing candidates through different stages of the hiring pipeline.
 
