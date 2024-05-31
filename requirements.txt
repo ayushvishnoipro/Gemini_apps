@@ -1,0 +1,15 @@
+streamlit==1.35.0
+google-generative-ai==1.0.0
+python-dotenv
+langchain
+chromadb
+langchain
+chromadb
+faiss-cpu
+langchain_google_genai
+PyPDF2
+pdf2image
+youtube-transcript-api
+pathlib
+crewai
+crewai_tools
