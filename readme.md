@@ -51,6 +51,8 @@ python crew_ai.py
 cd YT_Transcriber
 python yt_transcriber.py --url <YouTube Video URL>
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/f1badf32-57ca-435d-b90c-c46157df8c94)
+
 
 ### 4. Calorie Calculator
 **Description:** A simple application to calculate and track daily calorie intake based on user inputs.
