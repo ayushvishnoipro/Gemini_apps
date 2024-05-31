@@ -86,6 +86,8 @@ python calorie_calculator.py
 cd Chat_with_PDF
 python chat_with_pdf.py --file <PDF File Path>
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/65e2a821-a516-4815-995f-500dcf3bb81d)
+
 
 ### 6. Invoice Extractor
 **Description:** An application to extract important information from invoices using text recognition technology.
