@@ -70,6 +70,10 @@ python chat_with_pdf.py --file <PDF File Path>
 cd Invoice_Extractor
 python invoice_extractor.py --file <Invoice File Path>
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/b7f891bc-edb0-4d63-868d-34e0fbf5af11)
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/b19391c6-0c98-4d60-b9cc-fb5f850e44d1)
+
+
 
 ### 5. Text to SQL
 **Description:** A utility to convert natural language queries into SQL commands, simplifying database interactions.
