@@ -52,6 +52,8 @@ cd YT_Transcriber
 python yt_transcriber.py --url <YouTube Video URL>
 ```
 ![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/f1badf32-57ca-435d-b90c-c46157df8c94)
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/a7105573-7b13-41cf-80d7-eb8aee021585)
+
 
 
 ### 4. Calorie Calculator
