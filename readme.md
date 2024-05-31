@@ -1,44 +1,12 @@
-Here's a more detailed README file for the "Gemini_apps" repository:
-
----
-
 # Gemini_apps
 
 This repository contains a collection of diverse applications developed using Python. Each application is designed to address specific use cases and demonstrate various capabilities.
 
 ## Applications Overview
 
-### 1. ATS (Applicant Tracking System)
-**Description:** An application to streamline the recruitment process by tracking and managing candidates through different stages of the hiring pipeline.
-
-**Features:**
-- Candidate database management
-- Application status tracking
-- Interview scheduling
-
-**Usage:**
-```bash
-cd ATS
-python ats.py
-```
-
-### 2. Crew AI
-**Description:** An AI-driven tool to optimize crew scheduling and management, improving efficiency and reducing operational costs.
-
-**Features:**
-- AI-based scheduling
-- Shift management
-- Performance tracking
-
-**Usage:**
-```bash
-cd Crew_AI
-python crew_ai.py
-```
-![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/1dc0bd55-c87b-4105-9a6e-9e388dc04a6b)
 
 
-### 3. YT Transcriber
+###1. YT Transcriber
 **Description:** A tool to automatically transcribe YouTube videos, providing easy access to video content in text format.
 
 **Features:**
@@ -56,7 +24,7 @@ python yt_transcriber.py --url <YouTube Video URL>
 
 
 
-### 4. Calorie Calculator
+### 2. Calorie Calculator
 **Description:** A simple application to calculate and track daily calorie intake based on user inputs.
 
 **Features:**
@@ -73,7 +41,7 @@ python calorie_calculator.py
 
 
 
-### 5. Chat with PDF
+### 3. Chat with PDF
 **Description:** An interactive tool allowing users to chat and query PDF documents, extracting relevant information efficiently.
 
 **Features:**
@@ -86,8 +54,10 @@ python calorie_calculator.py
 cd Chat_with_PDF
 python chat_with_pdf.py --file <PDF File Path>
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/65e2a821-a516-4815-995f-500dcf3bb81d)
 
-### 6. Invoice Extractor
+
+### 4. Invoice Extractor
 **Description:** An application to extract important information from invoices using text recognition technology.
 
 **Features:**
@@ -100,8 +70,12 @@ python chat_with_pdf.py --file <PDF File Path>
 cd Invoice_Extractor
 python invoice_extractor.py --file <Invoice File Path>
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/b7f891bc-edb0-4d63-868d-34e0fbf5af11)
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/b19391c6-0c98-4d60-b9cc-fb5f850e44d1)
 
-### 7. Text to SQL
+
+
+### 5. Text to SQL
 **Description:** A utility to convert natural language queries into SQL commands, simplifying database interactions.
 
 **Features:**
@@ -114,6 +88,35 @@ python invoice_extractor.py --file <Invoice File Path>
 cd Text_to_SQL
 python text_to_sql.py --query "<Natural Language Query>"
 ```
+### 6. ATS (Applicant Tracking System)
+**Description:** An application to streamline the recruitment process by tracking and managing candidates through different stages of the hiring pipeline.
+
+**Features:**
+- Candidate database management
+- Application status tracking
+- Interview scheduling
+
+**Usage:**
+```bash
+cd ATS
+python ats.py
+```
+
+### 7. Crew AI
+**Description:** An AI-driven tool to optimize crew scheduling and management, improving efficiency and reducing operational costs.
+
+**Features:**
+- AI-based scheduling
+- Shift management
+- Performance tracking
+
+**Usage:**
+```bash
+cd Crew_AI
+python crew_ai.py
+```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/1dc0bd55-c87b-4105-9a6e-9e388dc04a6b)
+
 
 ## Getting Started
 
