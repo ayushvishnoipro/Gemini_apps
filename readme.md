@@ -1,7 +1,3 @@
-Here's a more detailed README file for the "Gemini_apps" repository:
-
----
-
 # Gemini_apps
 
 This repository contains a collection of diverse applications developed using Python. Each application is designed to address specific use cases and demonstrate various capabilities.
