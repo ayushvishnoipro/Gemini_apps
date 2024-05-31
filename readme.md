@@ -69,6 +69,9 @@ python yt_transcriber.py --url <YouTube Video URL>
 cd Calorie_Calculator
 python calorie_calculator.py
 ```
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/8e027c04-944b-4b12-9529-82044c89e72d)![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/92fb3b68-0564-4ae0-85fa-4d876637077c)
+
+
 
 ### 5. Chat with PDF
 **Description:** An interactive tool allowing users to chat and query PDF documents, extracting relevant information efficiently.
