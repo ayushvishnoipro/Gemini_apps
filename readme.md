@@ -37,7 +37,10 @@ python yt_transcriber.py --url <YouTube Video URL>
 cd Calorie_Calculator
 python calorie_calculator.py
 ```
-![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/8e027c04-944b-4b12-9529-82044c89e72d)![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/92fb3b68-0564-4ae0-85fa-4d876637077c)
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/6da7abae-7688-41b6-8799-6298c91cbda4)
+![image](https://github.com/ayushvishnoipro/Gemini_apps/assets/114357222/5d7d925d-b755-44a3-8cc4-55b8bba0fe7f)
+
+
 
 
 
